@@ -1,0 +1,3 @@
+0 Mangga Bagus
+1 Mangga Jelek
+2 Unknown
