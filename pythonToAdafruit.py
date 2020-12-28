@@ -7,8 +7,8 @@ import math
 from Adafruit_IO import Client, Feed, RequestError
 
 if __name__ == '__main__':
-    ADAFRUIT_IO_KEY = 'aio_GZYX65IsgWLAnkPa8KyajYKRVUqe'
-    ADAFRUIT_IO_USERNAME = 'dederohmat98'
+    ADAFRUIT_IO_KEY = 'YOUR AIO KEY'
+    ADAFRUIT_IO_USERNAME = 'YOUR USERNAME'
     
     aio = Client(ADAFRUIT_IO_USERNAME, ADAFRUIT_IO_KEY) 
     feed = aio.feeds('hxt')
